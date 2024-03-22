@@ -1,2 +1,1 @@
-"# TS-Number-Guessing-Game" 
-"# TS-NumberGuessing-Game" 
+# TS-Number-Guessing-Game
